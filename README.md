@@ -1,4 +1,4 @@
-# Bienvenido a Trivia Master
+# Bienvenido a IlernaQuiz
 
 ¡Bienvenido al juego de trivia más emocionante que jamás hayas jugado!
 
