@@ -7,6 +7,7 @@ body{
 }
 header{
     text-align: center;
+    margin-top: 2%;
 }
 
 body img {
@@ -32,8 +33,13 @@ article {
     font-size: large;
     background-color: rgba(128, 128, 128, 0.473);
 }
+#texto{
+  margin-top: 2%;
+  font-size: large;
+
+}
 #ejemplos{
-    margin-top: 5%;
+    margin-top: 3%;
 }
 #mi_flex{
     display: flex;
@@ -53,7 +59,7 @@ article {
 }
 
 #instrucciones {
-    background-image: url(../Fotos/fondo_inst.jpg);
+    background-image: url(../Fotos/FondoVentas.jpg);
     background-size: cover;
     transition: transform .2s; /* Duración y tipo de transición */
 }

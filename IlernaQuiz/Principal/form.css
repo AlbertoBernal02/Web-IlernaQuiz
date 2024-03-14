@@ -33,7 +33,7 @@ body{
   font-size: 41px;
   font-weight: 600;
   font-family: 'Poppins', sans-serif;
-  background: -webkit-linear-gradient(right, #e45656, #9f01ea, #56d8e4, #9f01ea);
+  background: -webkit-linear-gradient(right, #9f01ea, #9f01ea, #56d8e4, #9f01ea);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -134,6 +134,8 @@ form .form-row .textarea{
   position: relative;
   z-index: 2;
 }
+
+
 @media (max-width: 700px) {
   .container .text{
     font-size: 30px;
